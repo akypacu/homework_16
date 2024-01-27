@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Бананы",
+      "price": 5,
+      "quantity": 400,
+      "img": "./Images/banana.png"
+    },
+    {
+      "id": 2,
+      "name": "Ёлка",
+      "price": 150,
+      "quantity": 8,
+      "img": "./images/NewYearTree.png"
+    },
+    {
+      "id": 3,
+      "name": "Игровой пк",
+      "price": 3000,
+      "quantity": 5,
+      "img": "./images/computer.png"
+    },
+    {
+      "id": 4,
+      "name": "Куртка",
+      "price": 80,
+      "quantity": 30,
+      "img": "./images/jacket.png"
+    },
+    {
+      "id": 5,
+      "name": "Книга",
+      "price": 10,
+      "quantity": 40,
+      "img": "./images/book.png"
+      
+    },
+    {
+      "id": 6,
+      "name": "Кружка",
+      "price": 20,
+      "quantity":65,
+      "img": "./images/cup.png"
+    }
+  ]
+}
